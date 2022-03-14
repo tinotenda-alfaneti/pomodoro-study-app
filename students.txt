@@ -1,0 +1,8 @@
+  Tino@1234     |  FDE,Programming,Calculus  |        10         |        30         |         5       
+   Joe@2346      |  Maths,Shona,English  |        10         |        25         |         5       
+ Tiffaney@1452   |  FDE,Maths,Politics  |        10         |        30         |         5       
+ Judercio@1893   |  Politics,Portuguese,Programming  |        10         |        30         |         5       
+ Judercio@5210   |  FDE, English, CS  |         2         |        30         |        10       
+Judercio@56872024  |  FDE,CS,English, Leadership  |         5         |        30         |        10       
+ Kwabena@5310    |  Java, HTML, English ,Leadership  |         5         |        30         |         5       
+   Joe@1234      |  Shona, English   |        30         |        10         |         5       
